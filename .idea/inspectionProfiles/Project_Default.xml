@@ -1,0 +1,40 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="ipython" />
+          <option value="pyarrow" />
+          <option value="pandas" />
+          <option value="numpy" />
+          <option value="matplotlib" />
+          <option value="seaborn" />
+          <option value="requests" />
+          <option value="unidecode" />
+          <option value="gspread" />
+          <option value="gspread-dataframe" />
+          <option value="google-auth" />
+          <option value="oauth2client" />
+          <option value="tableauhyperapi" />
+          <option value="apache-airflow-providers-apache-spark" />
+          <option value="apache-airflow-providers-postgres" />
+          <option value="psycopg2-binary" />
+          <option value="dbt-postgres" />
+          <option value="dbt-core" />
+          <option value="agate" />
+          <option value="colorama" />
+          <option value="networkx" />
+          <option value="packaging" />
+          <option value="pathspec" />
+          <option value="protobuf" />
+          <option value="pytz" />
+          <option value="pyyaml" />
+          <option value="sqlparse" />
+          <option value="typing-extensions" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="SqlNoDataSourceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>
